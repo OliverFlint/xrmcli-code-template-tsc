@@ -1,0 +1,24 @@
+{
+  "name": "xrmcli-code-template-tsc",
+  "version": "1.0.0",
+  "description": "A bare bones code template for a typescript webresource project using the typescript compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OliverFlint/xrmcli-code-template-tsc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OliverFlint/xrmcli-code-template-tsc/issues"
+  },
+  "homepage": "https://github.com/OliverFlint/xrmcli-code-template-tsc#readme",
+  "devDependencies": {
+    "@types/xrm": "^9.0.41",
+    "typescript": "^4.3.5"
+  }
+}
